@@ -48,14 +48,14 @@
     
  ### 🟣 𝙎𝙃𝙊𝙍𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙁𝙊𝙍 𝙃𝙀𝙍𝙊𝙆𝙐
    <h3 style="color: #430098;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀🎭👑</h3>
-    <a href="https://drove-md-pairing-045b924fd447.herokuapp.com/">
+    <a href="https://drove-pair-7d984e04c8f3.herokuapp.com/">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-purple?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
 </div>
 <br>
 <div align="left">
     <h3 style="color: #34a853;">𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀🎭👑</h3>
-    <a href="https://drove-md-pairing-045b924fd447.herokuapp.com/">
+    <a href="https://drove-pair-7d984e04c8f3.herokuapp.com/">
         <img height="30" title="Session" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-red?style=for-the-badge&logo=heroku&logoColor=white">
     </a>
     <br>
@@ -109,15 +109,3 @@
 </div>
 
 
-### 💠 [`𝐀𝐕𝐀𝐈𝐋𝐀𝐁𝐋𝐄 𝐋𝐀𝐍𝐆𝐔𝐆𝐄𝐒 𝐅𝐎𝐑 𝐃𝐑𝐎𝐕𝐄-𝐌𝐃-𝐁𝐎𝐓`]
-- 🪄 Arabic = ar 
-- 🪄 Urdu = ur
-- 🪄 English Global = en
-- 🪄 Bahasa Indonesia = id
-- 🪄 Portuguese = pt
-- 🪄 Spanish = es
-
-<div align="left">
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-</div>
