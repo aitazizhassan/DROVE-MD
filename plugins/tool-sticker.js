@@ -1,5 +1,3 @@
-// coded by jawadtech x
-
 const path = require("path");
 const { tmpdir } = require("os");
 const fetch = require("node-fetch");
