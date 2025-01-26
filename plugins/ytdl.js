@@ -44,7 +44,7 @@ cmd({
       ptt: false
     }, { quoted: mek });
 
-    reply(`✅ *${title}*/n/n> 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗱 𝗕𝘆 𝗗𝗥𝗢𝗩𝗘-𝗠𝗗🔥`);
+    reply(`✅ *${title}*\n\n> 𝗦𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗱 𝗕𝘆 𝗗𝗥𝗢𝗩𝗘-𝗠𝗗🔥`);
   } catch (error) {
     console.error(error);
     reply("❌ An error occurred while processing your request.");
