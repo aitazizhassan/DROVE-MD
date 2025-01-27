@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "WiwUjQSa#WNcpeR4BmZ5j8XWfFBg2lyMuxdGYOUMT0Ar41zU_az0.",
       "required": true,
       "value": ""
     },  
@@ -34,7 +34,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
-      "value": "public"
+      "value": "private"
     }, 
 
     "AUTO_VOICE": {
